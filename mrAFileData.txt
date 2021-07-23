@@ -1,0 +1,5 @@
+Mammal Ape 250 true true
+Mammal Human 175 true false
+Bird Duck 1.6 false true
+Reptile Snake 3.8 false true
+Reptile Turtle 1.5 false false
